@@ -1,0 +1,18 @@
+apiVersion: v2
+appVersion: 8.1.1
+description: User identity and access management solution provides compliant policy workflows, 
+  automated provisioning, and enterprise account security.
+engine: gotpl
+home: https://www.oneidentity.com
+icon: https://www.oneidentity.com/images/shared/oneidentity-logo.png
+keywords:
+- identity management
+- identity manager
+- access management
+maintainers:
+- email: will.mitchell@oneidentity.com
+name: oneim-job
+sources:
+- https://github.com/dyzcypul/hemlcharts
+type: application
+version: 0.1.0
